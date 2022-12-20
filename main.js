@@ -6,7 +6,15 @@ const quotes = [
     { quote: "Don't be afraid to give up the good to go for the best.", author: "John D. Rockefeller" },
     { quote: "It is not true that people stop pursuing dreams \nbecause they grow old they grow old because they stop pursuing dreams.", author: "Gabriel Garcia Marzuez" },
     { quote: "Music in the soul can be heard by the universe.", author: "Lao Tzu"},
-    { quote: "Do not fear failure but rather fear not trying.", author: "Roy T. Bennet"}
+    { quote: "Do not fear failure but rather fear not trying.", author: "Roy T. Bennet"},
+    { quote: "God is a comedian playing to an audience that is too afraid to laugh.", author: "Voltaire"},
+    { quote: "The first step, my son, which one makes in the world, is the one on which depends the rest of our days.", author: "Voltaire"},
+    { quote: "Don’t you wonder sometimes, what might have happened if you tried?", author: "Kazuo Ishiguro"},
+    { quote: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.", author: "Ralph Waldo Emerson"},
+    { quote: "My soul is a hidden orchestra; I know not what instruments, what fiddlestrings and harps, drums and tamboura I sound and clash inside myself. All I hear is the symphony.", author: "Fernando Pessoa"},
+    { quote: "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.", author: "Miyamoto Musashi"},
+    { quote: "If a thing is worth doing, it is worth doing well. If it is worth having, it is worth waiting for. If it is worth attaining, it is worth fighting for. If it is worth experiencing, it is worth putting aside time for.", author: "Oscar Wilde"}
+
   ];
   
   
