@@ -10,10 +10,9 @@ const quotes = [
     { quote: "God is a comedian playing to an audience that is too\nafraid to laugh.", author: "Voltaire"},
     { quote: "The first step, my son, which one makes in the world,\nis the one on which depends the rest of our days.", author: "Voltaire"},
     { quote: "Don’t you wonder sometimes, what might have\nhappened if you tried?", author: "Kazuo Ishiguro"},
-    { quote: "The purpose of life is not\nto be happy. It is to be useful, to be honorable, to be compassionate, \nto have it make some difference that you have lived and lived well.", author: "Ralph Waldo Emerson"},
+    { quote: "The purpose of life is not\nto be happy.\nIt is to be useful, to be honorable, to be compassionate, \nto have it make some difference that you have lived and lived well.", author: "Ralph Waldo Emerson"},
     { quote: "My soul is a hidden orchestra; I know not what\ninstruments, what fiddlestrings and harps,\ndrums and tamboura I sound and clash inside myself.\nAll I hear is the symphony.", author: "Fernando Pessoa"},
-    { quote: "The purpose of life is not to be happy. It is to be useful,\nto be honorable, \nto be compassionate, \nto have it make some difference that you have lived and lived well.", author: "Miyamoto Musashi"},
-    { quote: "If a thing is worth doing, it is worth doing well. If it is worth having, it is worth waiting for.\nIf it is worth attaining, it is worth fighting for. If it is worth experiencing, it is worth putting aside time for.", author: "Oscar Wilde"}
+    { quote: "If a thing is worth doing, it is worth doing well. \nIf it is worth having, it is worth waiting for.\nIf it is worth attaining, it is worth fighting for. \nIf it is worth experiencing, it is worth putting aside time for.", author: "Oscar Wilde"}
 
   ];
   
